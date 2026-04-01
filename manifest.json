@@ -1,0 +1,9 @@
+{
+  "id": "grouped-list",
+  "name": "Grouped List",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Renders a grouped, linked index of notes by frontmatter property.",
+  "author": "Andrew",
+  "isDesktopOnly": false
+}

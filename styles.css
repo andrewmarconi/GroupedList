@@ -1,0 +1,6 @@
+.grouped-list-columns {
+    column-count: 2;
+    column-gap: 2em;
+    list-style: disc;
+    padding-left: 1.5em;
+}
